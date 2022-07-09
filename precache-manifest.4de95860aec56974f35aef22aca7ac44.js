@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "63c9a3a4c57963e7550f",
+    "revision": "3d0118e93588b1f9fafa",
     "url": "/my-radio/static/css/main.a98d93b1.chunk.css"
   },
   {
-    "revision": "63c9a3a4c57963e7550f",
-    "url": "/my-radio/static/js/main.4765e821.chunk.js"
+    "revision": "3d0118e93588b1f9fafa",
+    "url": "/my-radio/static/js/main.612e3c8a.chunk.js"
   },
   {
     "revision": "c93df563159991b677a6",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/my-radio/static/media/logo.9b53c6c9.png"
   },
   {
-    "revision": "6ae2e3287107af187f6f47e070984a47",
+    "revision": "e5c58b9567010955bc0cbd5a636e9640",
     "url": "/my-radio/index.html"
   }
 ];
