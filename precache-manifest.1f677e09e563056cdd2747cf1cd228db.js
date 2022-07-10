@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "3d0118e93588b1f9fafa",
+    "revision": "75b2d10b4cb529209bb8",
     "url": "/my-radio/static/css/main.a98d93b1.chunk.css"
   },
   {
-    "revision": "3d0118e93588b1f9fafa",
-    "url": "/my-radio/static/js/main.612e3c8a.chunk.js"
+    "revision": "75b2d10b4cb529209bb8",
+    "url": "/my-radio/static/js/main.af4879f3.chunk.js"
   },
   {
     "revision": "c93df563159991b677a6",
     "url": "/my-radio/static/js/runtime~main.17cfe6c7.js"
   },
   {
-    "revision": "9ceae406e41001d258e9",
+    "revision": "ca56b3a418022ed4274a",
     "url": "/my-radio/static/css/2.7c4e3637.chunk.css"
   },
   {
-    "revision": "9ceae406e41001d258e9",
-    "url": "/my-radio/static/js/2.548d5568.chunk.js"
+    "revision": "ca56b3a418022ed4274a",
+    "url": "/my-radio/static/js/2.df26031d.chunk.js"
   },
   {
     "revision": "9dc639999e908e298750",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/my-radio/static/media/logo.9b53c6c9.png"
   },
   {
-    "revision": "e5c58b9567010955bc0cbd5a636e9640",
+    "revision": "b723664626cabf103e30bf2241119a7a",
     "url": "/my-radio/index.html"
   }
 ];
