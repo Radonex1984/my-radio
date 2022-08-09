@@ -1,7 +1,7 @@
 {
   "name": "my-radio",
   "version": "0.1.0",
-  "homepage": "https://Radonex1984.github.io/my-radio/",
+  "homepage": "http://localhost:8080",
   "origin": "http://localhost:8080",
   "private": true,
   "dependencies": {
